@@ -10,6 +10,12 @@ draw = function() {
     fill(0, 0, 0);
     textSize(30);
     text("Press me!", 145, 115);
+    
+    if(mousePressed&&){
+ fill(255, 157, 0); 
+    rect(0, 0, 400, 200);  
+
+}
 };
 
 
